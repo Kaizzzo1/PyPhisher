@@ -27,7 +27,7 @@
 ##### Clone this repository
 
   ```
-  git clone https://github.com/pranay-root/Pyphisher.git
+  git clone https://github.com/Kaizzzo1/PyPhisher.git
 ```
 
 ##### Enter the directory
@@ -144,8 +144,6 @@ If not found, php and python modoules will be installed on first run
 5. Wait for victim login. As soon as he/she logs in, credentials will be captured
 
 <h1 align="center">Example</h1>
-
-![PyPhisher](https://gitlab.com/KasRoudra/PyPhisher/-/raw/main/files/pyphisher.gif)
 
 
 ## Whats new in 1.8?
